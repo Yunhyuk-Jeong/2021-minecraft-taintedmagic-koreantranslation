@@ -11,3 +11,5 @@
 5. `en_US.lang`가 있는것을 확인한 이후, `ko_KR.lang`을 드래그하여 붙여넣어줍시다. 방식은 **현재 파일에 추가하기**를 권장합니다. *.jar의 형태가 가능하다면 다른 방법도 상관 없습니다.
    
 6.  `ko_KR.lang`이 적용된 `Tainted-Magic-r7.82.jar`을 게임에 적용 후, 인게임 언어를 한국어로 바꾸면 적용이 완료됩니다.
+
+- https://www.curseforge.com/minecraft/mc-mods/tainted-magic/download/2462744

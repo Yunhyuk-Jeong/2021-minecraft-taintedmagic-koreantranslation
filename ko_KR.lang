@@ -1,0 +1,423 @@
+#MISC
+
+itemGroup.TaintedMagic=Tainted Magic
+
+text.creation=당신은 갑자기 완전하고 완벽한 명료함에 가득찼습니다.
+
+text.voidtouched=Voidtouched
+
+text.attackdamageequipped=공격력 (장착시)
+text.attackdamage=공격력
+text.radius=범위
+text.burnTime=발화시간
+
+text.eldritchsapping=엘드리치 약화
+text.bloodlust=피의 욕망
+
+#FOCI
+
+item.ItemFocusTaintedShockwave.name=완드 포커스: 테인트 충격파
+item.ItemFocusMageMace.name=완드 포커스: 마도학자의 메이스
+item.ItemFocusTaint.name=완드 포커스: 테인트 폭풍
+item.ItemFocusDarkMatter.name=완드 포커스: 암흑물질
+item.ItemFocusMeteorology.name=완드 포커스: 기상
+item.ItemFocusTime.name=완드 포커스: 시간
+item.ItemFocusVisShard.name=완드 포커스: 비스 샤드
+item.ItemFocusLumos.name=완드 포커스: 루모스
+
+item.Focus.cost3=타격시 비스 소모량
+
+focus.upgrade.antibody.name=항체
+focus.upgrade.antibody.text=이 업그레이드를 하면 포커스를 사용하는 동안 걸리는 질병에 대하여 면역이 생깁니다.                            
+
+focus.upgrade.corrosive.name=부식
+focus.upgrade.corrosive.text=이 업그레이드를 하면 포커스로 타격한 대상에게 위더 효과를 겁니다.
+
+focus.upgrade.sanity.name=온전한 정신
+focus.upgrade.sanity.text=이 업그레이드를 하면 포커스를 사용하는 동안 쌓이는 워프에 대하여 면역이 생깁니다.
+
+focus.upgrade.bloodlust.name=피의 욕망
+focus.upgrade.bloodlust.text=이 업그레이드를 하면 포커스를 사용하는 동안 당신의 스태프에 "피의 욕망" 특성을 적용합니다.
+
+focus.upgrade.persistent.name=지속성
+focus.upgrade.persistent.text=이 업그레이드를 하면 샤드가 추적하던 대상이 사라지거나 죽었을 때, 새로운 대상을 찾습니다.
+
+focus.upgrade.maxima.name=루모스 맥시마
+focus.upgrade.maxima.text=이 업그레이드를 하면 포커스를 사용했을 때 주변의 모든 어두운 곳을 잠시 밝힙니다. 업그레이드를 증가시키면 적용되는 범위가 늘어납니다.
+
+focus.upgrade.glowpet.name=빛나는 펫
+focus.upgrade.glowpet.text=이 업그레이드를 하면 포커스를 사용했을 때 전부 연소될 때까지 당신을 따라다니는 빛의 구체를 소환합니다. 업그레이드를 증가시키면 빛의 구체가 유지되는 시간이 길어집니다.
+
+focus.upgrade.diffusion.name=확산
+focus.upgrade.diffusion.text=이 업그레이드를 하면 포커스를 사용했을 때 농축된 구체가 아닌, 암흑물질로 구성된 구름을 흩뿌립니다. 
+
+#BLOCKS
+
+tile.BlockShadowOre.name=그림자 광석
+tile.BlockWarpwoodLog.name=워프우드
+tile.BlockWarpwoodSapling.name=워프우드 묘묙
+tile.BlockWarpwoodLeaves.name=워프우드 나뭇잎
+tile.BlockShadowmetal.name=그림자합금 블럭
+tile.BlockWarpwoodPlanks.name=워프우드 판자
+tile.BlockLumos.name=루모스
+
+#ITEMS
+
+item.ItemMaterial.0.name=그림자합금 주괴
+item.ItemMaterial.1.name=그림자에 물든 천
+item.ItemMaterial.2.name=진홍빛으로 얼룩진 천
+item.ItemMaterial.3.name=뒤틀린 샤드
+item.ItemMaterial.4.name=플럭스 샤드
+item.ItemMaterial.5.name=창조의 샤드
+text.shard=마법의 천은 당신이 바라는대로 휘어질 것 입니다.
+item.ItemMaterial.6.name=사우믹 합금
+item.ItemMaterial.7.name=크리스탈 혈액병
+item.ItemMaterial.8.name=진홍빛 판
+item.ItemMaterial.9.name=그림자합금 조각
+item.ItemMaterial.10.name=원시 혹
+item.ItemMaterial.11.name=원시 티끌
+
+item.ItemVoidsentBlood.name=공허 혈액병
+
+item.ItemCrystalDagger.name=크리스탈 단검
+
+item.ItemMagicFunguar.name=마법 펑거
+
+item.ItemFlyteCharm.name=비행의 부적
+
+item.ItemVoidwalkerSash.name=공허방랑자의 결계 허리띠
+text.sash.on=활성화
+text.sash.off=비활성화
+text.sash.mode=속도 가속:
+
+item.ItemVoidwalkerBoots.name=공허방랑자의 신발
+
+item.ItemWarpedGoggles.name=뒤틀린 발견의 고글
+item.ItemVoidmetalGoggles.name=그림자합금 발견의 고글
+
+item.ItemKatana.0.name=사우뮴 전투 칼날
+item.ItemKatana.1.name=공허합금 전투 칼날
+item.ItemKatana.2.name=그림자합금 전투 칼날
+text.katana.inscription.0=화산 비문
+text.katana.inscription.1=테인트 비문
+text.katana.inscription.2=언데드 비문
+
+item.ItemVoidFortressHelmet.name=공허 전투 헬멧
+item.ItemVoidFortressChestplate.name=공허 전투 흉갑
+item.ItemVoidFortressLeggings.name=공허 전투 레깅스
+
+item.ItemThaumicDisassembler.name=사우믹 분해기
+text.disassembler.mode=모드
+text.disassembler.efficiency=효율
+text.disassembler.normal=일반
+text.disassembler.fast=빠름
+text.disassembler.slow=느림
+text.disassembler.off=꺼짐
+
+item.ItemShadowmetalPick.name=그림자합금 곡괭이
+item.ItemShadowmetalAxe.name=그림자합금 도끼
+item.ItemShadowmetalHoe.name=그림자합금 괭이
+item.ItemShadowmetalSpade.name=그림자합금 삽
+item.ItemShadowmetalSword.name=그림자합금 검
+
+item.ItemPrimordialEdge.name=태초의 끝자락
+
+item.ItemShadowFortressHelmet.name=그림자 전투 헬멧
+item.ItemShadowFortressChestplate.name=그림자 전투 흉갑
+item.ItemShadowFortressLeggings.name=그림자 전투 레깅스
+
+#WANDS
+
+item.ItemWandRod.0.name=워프우드 완드 코어
+item.ItemWandRod.1.name=워프우드 스태프 코어
+
+item.ItemWandCap.0.name=그림자합금 캡
+item.ItemWandCap.1.name=마법이 부여된 천 캡
+item.ItemWandCap.2.name=진홍빛으로 얼룩진 천 캡
+item.ItemWandCap.3.name=그림자에 물든 천 캡
+
+item.Wand.warpwood.rod=워프우드
+
+item.Wand.shadowmetal.cap=그림자합금
+item.Wand.cloth.cap=부드럽게 얽힌
+item.Wand.crimsoncloth.cap=진홍빛으로 얼룩진
+item.Wand.shadowcloth.cap=그림자로 얽힌
+
+#RESEARCH=========================================================================================================================================
+
+tc.research_category.TM=말레피시움
+
+#TAINTEDMAGIC
+
+tm.name.TAINTEDMAGIC=충격적인 발견
+tm.tag.TAINTEDMAGIC=변화하는 바다의 노래
+tm.text.TAINTEDMAGIC.1=밖에나가 지식을 모으던 도중, 다소 충격적인 것을 발견했습니다. 그것은 한 마도학자의 사우모노미콘에서 찢겨져나온 피가 묻은 페이지입니다. 이해한게 맞다면, 이건 마법의 어두운 부분입니다.<BR>비록 이 길이 당신을 위험하게 할지라도, 어둠은 당신을 흥미롭게 합니다. 잃을게 뭐 있나요! 미지의 세계로 모험을 떠난다는 생각은 우리를 흥분시키죠.<BR>아직은 불분명하기 때문에 조각조각 이해할 뿐입니다... 하지만 언젠가는 이 페이지를 해독하고 새로운 마법을 통달하겠죠... 언젠가는!
+tm.text.TAINTEDMAGIC.2=<IMG>taintedmagic:textures/misc/PageTAINTEDMAGIC.png:0:255:255:255:.5</IMG><BR><BR>누가 이걸 썼을까요?
+
+#SHADOWMETAL
+
+tm.name.SHADOWMETAL=그림자합금
+tm.tag.SHADOWMETAL=문이 닫히면 창문이 열리지
+tm.text.SHADOWMETAL.1=오래전, 당신은 도가니에 §o무언가§r를 옮기고 있었습니다. 레시피를 망친후, 공황상태에서, 당신은 실수로 돌덩어리를 그곳에 떨어뜨렸습니다. 결과는 그림자 광석이었죠.<BR>그것을 녹이면 그림자합금 주괴가 나옵니다. 이는 매우 무겁고, 내구성이 강합니다. 사용하기 전에 조사해야겠네요.<BR>§o당신은 이 물질 안에서 들려오는 지루하고 이해할 수 없는 속삭임에 귀를 기울입니다. 너 미친거야? 뭐 누가 알겠어.
+
+#CAP_shadowmetal
+
+tm.name.CAP_shadowmetal=그림자합금 완드 캡
+tm.tag.CAP_shadowmetal=어둠이 없는 달빛
+tm.text.CAP_shadowmetal.1=공허합금 캡의 발견으로 당신은 이들의 성능을 더 향상시킬 수 있을지 궁금해졌습니다. 당신을 이 이론을 약간의 그림자합금과 원시 진주의 기본적인 측면에 주입하는걸로 테스트했습니다. 성공적이었죠.<BR>그림자합금 캡은 비스 채널링에 매우 효율적이며, 모든 기본 비스에 대하여 30%의 높은 할인률을 보입니다.
+
+#ROD_warpwood
+
+tm.name.ROD_warpwood=워프우드 완드 코어
+tm.tag.ROD_warpwood=완드가 마법사를 선택하지...
+tm.text.ROD_warpwood.1=워프우드를 발견한 이후로, 당신은 이 나무를 완드로 만드는 것이 가능할지 궁금했습니다. 원시 진주가 이 질문에 대한 해답을 주었습니다.<BR>이게 워프우드이기 때문에 좀비의 뇌를 타락한 에너지의 통로로 이용하는 것이 논리적이라고 생각합니다. 원시 진주의 힘을 이 완드의 핵심으로 사용한다면, 그 힘은 무엇과도 비교할 수 없을겁니다.<BR>나무는 완드 세공에 안성맞춤입니다. 워프우드는 밀도가 높기 때문에 250개의 막대한 양의 비스를 저장할 수 있습니다.
+
+tm.text.ROD_warpwood.2=또한 사용자의 뒤틀린 에너지가 완드 내부의 유기적 뒤틀림과 일종의 반응을 보이는 것 같습니다. 두 에너지 사이에서 이러한 반응이 일어나면, 비스가 부산물로 생성되어 완드의 내부에 저장되는것으로 보입니다. 이는 뒤틀림이 높을수록 반응성이 높아집니다.<BR>뒤틀림을 막는 버프는 모든 뒤틀림을 막기에 이 반응을 무효화 시키는걸로 보입니다.<LINE>§o오늘 제 완드가 이상하게 속삭이기 시작했습니다. 제 완드가 점점 더 강해지고... 마치 저 자신의 연장선처럼 강해집니다.
+
+#ROD_warpwood_staff
+
+tm.name.ROD_warpwood_staff=워프우드 스태프 코어
+tm.tag.ROD_warpwood_staff=왜 그런걸지 잘 모르겠어...
+tm.text.ROD_warpwood_staff.1=당신은 워프우드 완드에 익숙해지면서 이 완드를 어떻게 스태프로 강화할 수 있을지 고민했습니다.<BR>불행이도 대부분의 스태프와는 달리 원시 부적을 추가하는 것 만으로는 충분하지 않았습니다. 그 해답은 또 거짓이었습니다... 원시 진주와 함께말이죠.<BR>이 스태프는 완드와 같이 비스 생성 특성이 적용되어있습니다. 무엇보다도 이 스태프 코어는 500개의 비스를 저장할 수 있는 충분한 공간을 제공합니다.
+
+#EVILSHARDS
+
+tm.name.EVILSHARDS=불균형한 샤드들
+tm.tag.EVILSHARDS=조화롭지 않은 심장박동
+tm.text.EVILSHARDS.1=균형을 이룬 샤드에 특정 위상을 적용하면 다소 흥미로운 반응이 일어났습니다. 당신은 이 과정을 "불균형"이라고 부르기로 결정했습니다.<BR>그 결과, 당신은 플럭스 샤드와 뒤틀린 샤드를 발견했습니다.
+
+#CRIMSONROBES
+
+tm.name.CRIMSONROBES=크림슨 심스트리
+tm.tag.CRIMSONROBES=그녀의 은빛 드레스에서 느껴지는 따스함...
+tm.text.CRIMSONROBES.1=크리스탈 혈액과 다양한 이도교의 유물을 비교하면서 당신은 유사점을 알아냈습니다. 숭배자들은 거의 모든것을 크리스탈 혈액과 매우 유사한 물질로 더럽히는걸로 보입니다.<BR>마법이 깃든 천에 크리스탈 혈액을 물들이는걸로 크림슨 교단의 숭배자들이 의상을 생산하는데 사용하는 필수 재료를 완벽하게 복제하였습니다.<BR>진홍빛으로 얼룩진 천을 이용하여 다양한 로브들을 전부 복제할 수 있었습니다. 이 레시피는 다음 페이지에 남겨두었습니다.
+
+#VOIDFORTRESS
+
+tm.name.VOIDFORTRESS=공허 전투 갑옷
+tm.tag.VOIDFORTRESS=아무것도 나오지 않아
+tm.text.VOIDFORTRESS.1=이것은 전투 갑옷의 발견에 따른 개념의 간단한 개선입니다. 사우뮴 대신 공허합금을 사용함으로써 갑옷의 효과뿐만 아니라 내구성도 높였습니다.<BR>물론 어떤 사람들은 이렇게 많은 양의 공허합금을 착용하는게 좋지 않을거라고 주장하지만, 항상 의심하는자는 있었으니 무시합시다. 당신은 갑옷을 착용하며 느껴지는 뼛속까지 가라않는 칙칙한 통증에 위안을 얻습니다.<BR>일반 전투 갑옷과 마찬가지로 다양한 개조로 강화가 가능합니다.
+
+#WARPEDGOGGLES
+
+tm.name.WARPEDGOGGLES=뒤틀린 발견의 고글
+tm.tag.WARPEDGOGGLES=숨길 수 없는 심장
+tm.text.WARPEDGOGGLES.1=당신은 발견의 고글에 그림자합금과 약간의 에테리얼 에센스를 주입함으로써 이 영원한 문제를 해결했습니다.<BR>당신은 기능과 보호 중 하나를 선택해야 합니다. 그림자합금을 사용하여 고글을 강화함으로써 고글은 더 나은 보호기능을 제공합니다.<BR>§o렌즈 중 하나가 뒤틀림으로 흐려져 때때로 이상한게 보입니다. 하지만 문제 없죠. 설마 더 나빠지겠어요, 안그래요?
+
+#TAINTFOCUS
+
+tm.name.TAINTFOCUS=완드 포커스: 테인트 폭풍
+tm.tag.TAINTFOCUS=질병은 제거되어야 해
+tm.text.TAINTFOCUS.1=플럭스의 파괴적인 특성을 알게된 이후, 당신은 플럭스를 공격적으로 이용하여 완드 포커스를 만드는데 흥미를 가지기 시작했습니다. 그 결과가 테인트 폭풍 포커스죠.<BR>이 포커스는 중독시키고 데미지를 입히는 해로운 테인트 거품을 만들어내는 AoE 공격입니다.<BR>이 포커스를 사용할때는 적절한 예방이 필요합니다. 포커스를 사용하는동안 플럭스 감기에 걸리는건 드문일이 아니기 때문이죠.
+
+#ELDRITCHFOCUS
+
+tm.name.ELDRITCHFOCUS=완드 포커스: 암흑물질
+tm.tag.ELDRITCHFOCUS=아바다 케다브라
+tm.text.ELDRITCHFOCUS.1=복잠한 원시 진주와 완드 포커스에 대한 지식들을 결합한 결과, 마침내 완벽한 완드 포커스를 디자인했습니다.<BR>원시 진주를 강력한 촉매제로 사용하여 순수한 힘의 결정체를 만들었습니다. 마법의 구조를 이용하여 엘드리치처럼 ㅇ마흑 물질을 휘두르는 완벽한 무기를 제작했죠.<BR>§o나는 초점의 광택이 흐르는 표면을 응시하며 나 자신의 변화를 궁금해합니다. 아무것도 나를 막을 수 없어... §r§l아무것도!!!!
+
+#KNIGHTROBES
+
+tm.name.KNIGHTROBES=진홍빛 위조
+tm.tag.KNIGHTROBES=울리는 강철의 노래
+tm.text.KNIGHTROBES.1=의지가 있다면, 길이 보입니다...<BR>크림슨 기사의 갑옷을 복제하는 것은 로브를 복제하는 것 만큼 쉽지는 않은것 같습니다. 하지만, 늘 그렇듯이 당신은 방법을 찾았습니다.<BR>이 진홍빛 판은 당신이 필요로하는 재료였습니다. 이 강하고 피로 얼룩진 금속은 그들이 사용하는 금속과 동일합니다.<BR>이 금속과 갑옷의 레시피는 다음 페이지에 기술하였습니다.
+
+#PRAETORARMOR
+
+tm.name.PRAETORARMOR=강화된 진홍빛 위조
+tm.tag.PRAETORARMOR=그리고 이제, 최종장이야
+tm.text.PRAETORARMOR.1=크림슨 교단의 신도들을 죽인 후, 당신은 그들의 로브를 뒤적이다 매우 독특한 책을 발견했습니다. 이는 그들의 지도자에 대하여 이야기했습니다.<BR>당신은 그 책을 펴낸 이후로 그들의 크림슨 집정관에 대한 환상과 꿈을 꾸었습니다... 당신은 자신이 저주받았음을 확신했습니다. 그러나 이 비전의 정보들을 가지고, 당신은 크림슨 집정관의 갑옷을 복제하는 방법을 고안했습니다.<BR>그 레시피는 다음 페이지에 기록했습니다.
+
+#WARPTREE
+
+tm.name.WARPTREE=워프우드
+tm.tag.WARPTREE=그건 다시 되돌아올거야
+tm.text.WARPTREE.1=테인트의 땅에서 마법의 나무를 연구하는 동안, 당신은 수준 높은 마법의 에너지를 발견했습니다.<BR>워프우드는 부패한 에너지로 번성하는 유기적 구조를 가졌습니다. 이 나무를 어디에 사용할지는 모르겠지만, 언젠가는 당신이 필요하게 될 것입니다.
+
+#SHADOWCLOTH
+
+tm.name.SHADOWCLOTH=그림자에 물든 천
+tm.tag.SHADOWCLOTH=검은 베일
+tm.text.SHADOWCLOTH.1=그림자합금을 처음 발견했을 때, 당신은 다른 마법물질과 어떻게 반응하는지 알아보기 위하여 실험했습니다. 그림자에 물든 천은 그 결과물 중 하나였습니다.<BR>그림자에 물든 천은 마법이 깃든 천과 비슷한 성질을 가지고 있지만, 색이 상당히 어두우며, 흥미로운 마법의 속성을 가지고 있습니다. 부드럽고, 얇고, 가볍고, 믿을 수 없을 정도로 강합니다. 당신은 이것이 많은 용도로 사용될 것임을 확신합니다.
+
+#VOIDWALKERBOOTS
+
+tm.name.VOIDWALKERBOOTS=공허방랑자의 신발
+tm.tag.VOIDWALKERBOOTS=그녀의 어머니는 눈을 내리깔고 앉아있었어
+tm.text.VOIDWALKERBOOTS.1=당신은 공허의 마도학자 복장을 완성할 신발을 열심히 찾고있었습니다. <BR>공허방랑자의 신발은 뛰어난 보호기능을 제공할뿐만 아니라 걷거나 날 때 비교할 수 없는 빠른 속도를 제공합니다. 또한, 당신이 부츠를 신는 동안 낙하로 인한 피해에 면역이됩니다.
+
+#CREATIONSHARD
+
+tm.name.CREATIONSHARD=창조의 샤드
+tm.tag.CREATIONSHARD=나는 진실을 보았다.
+tm.text.CREATIONSHARD.1=당신은 드디어 찾았습니다... 엘드리치에게 도전할 무언가를...<BR>창조의 샤드, 이 응축된 힘의 파편은 당신의 마법을 위한 궁극적인 연료 공급원입니다. 창조의 힘이 담겨있는 조각이죠.<BR>이 샤드는 모든것이 어떻게 생겨났는지에 대한 열쇠가 될 수 있습니다. 당신이 항상 찾고 헤매던 것이죠. <BR>§o이 샤드의 인퓨전이 끝나자 마자, 당신의 뒤틀린 마음에 순수한 명료함이 가득차며, 깨달음을 얻어, 모든것이 분명해졌습니다. 넌 미친사람이 아니야, 넌 그들에게 보여줄거야. 다, 전부 다 보여줄거야!!
+
+#CREATION
+
+tm.name.CREATION=창조
+tm.tag.CREATION=Ordo ab Chao (혼돈의 질서)
+tm.text.CREATION.1=당신이 샤드를 만졌을 때, 이해하지 못하는 힘으로 만들어진 물질을 만졌을 때, 무언가를 느꼈습니다. 당신은 마치 온 우주가 바뀐 것처럼 느꼈습니다.<BR>당신의 몸이 굳어갔고, 사우모노미콘을 연 이후 처음으로... 그들의 목소리가 멈췄습니다.<BR>당신은 목소리가 항상 숨겨왔던것을 보았습니다. 당신은 거짓말을 꿰뚫어봤잖아. 광기를 통해서, 세상 사이의 베일을 통해서, 봤지? §5창조를.§0<BR>오래전, 당신이 아는 세계가 아직 존재하지 않았을 때, 또 다른 우주가 형성되기 시작했습니다.
+
+tm.text.CREATION.2=현실의 너머에서 흘러 나오는 비스 형태의 원시 에너지는 충돌하고 결합하며, 시간이 지나자 탄생되었습니다.<BR>비어있는 우주, 무에서 폭발하여 존재하는.<BR>그러나 이 세상을 만들어낸 에너지는 떠나지 않았습니다. 그들은 물이나 공기처럼 세계에 머물렀고, 뒤틀려서 새로운 장소의 일부가 되었습니다.<BR>그 어떤 우주라도 충분한 시간이 주어진다면, 결국 생명이 태어날 것이며, 이 우주도 예외는 아니었습니다. 힘에 의하여 뒤틀리고, 마법에 의하여 뒤틀린 존재의 종족, 당신이 읽어본 모든 문헌에서는 항상 그들을 이렇게 불러왔습니다... 엘드리치.
+
+tm.text.CREATION.3=시간이 흐르자, 엘드리치는 마법을 개발했습니다. 그들은 그것을 연습하고 다듬었고, 마도학과 매우 흡사해졌습니다. 단 한가지를 제외하고는 말이죠.<BR>워프는 그들이 쓴 모든 단어에 들어있었습니다. 뒤틀림, 플럭스, 그리고 테인트. 그들의 마법은 보통의 반응보다 더 큰 반응 없이는 아무것도 할 수 없었습니다.<BR>그렇기에 그들은 규칙을 어기기로 했습니다. 새로운 우주를 창조하기로. 한계가 없는 우주, 그들의 우주가 겪은 뒤틀림이 없는 우주.<BR>그들은 원시 에너지를 조작하기 시작했고, 그것에 불꽃을 일으키고, 창조 가능한 형태로 충돌시켰습니다.
+
+tm.text.CREATION.4=하지만 우주가 만들어지기 직전에, 그들은 이 힘을 둘로 나누었습니다.<BR>모든 창조의 힘은 한쪽으로 쏠렸고, 문제들은 다른쪽으로 밀려났습니다.<BR>이는 두개의 세계의 창조로 끝났습니다... 끝없이 펼쳐지는 공허의 세계와, 오버월드.<BR>그럼에도 불구하고, 이 두 세계 사이의 베일은 약했고, 공허한 세계에 담겨있는 힘은 훈련받지 않은 사람들이 붙잡아 두기에는 너무 위험했습니다.<BR>그래서 엘드리치는 함정을 만들었습니다. 그들은 하나의 창조물을 중심으로 한 미로에 다시 미로를 만들었습니다... 바로 원시 진주입니다.
+
+tm.text.CREATION.5=진주를 보호하기 위하여 그들은 수호자들을 만들어, 약자들이 이 힘을 얻지 못하도록 했습니다. 바보들이 그 힘을 잘못 사용하면 큰 일이 일어날 수 있기 때문입니다.<BR>영겁의 시간이 흐르고, 당신이 여기에 서있습니다. 영원에 진군하여 승리한자. 당신은 세상을 만드는 데 사용된 힘의 일부를 가지고 있습니다. 바로 진주입니다. 이 창조물을 마지막으로, 당신은 퍼즐의 마지막 조각인 '창조의 샤드'를 완성했습니다.<BR>엘드리치가 자신의 한계를 무너트린 것처럼, 당신을 속박하던 한계는 이미 무너졌습니다. 이것으로, 신들조차 당신의 앞에서는 도망칠 것입니다.
+
+#THAUMICDISASSEMBLER
+
+tm.name.THAUMICDISASSEMBLER=사우믹 분해기
+tm.tag.THAUMICDISASSEMBLER=혁신
+tm.text.THAUMICDISASSEMBLER.1=현대 기술의 세계에는 원자 분해기라고 불리는 도구가 존재한다는 소문이 있었습니다.<BR>이 도구는 완벽하다고 합니다. 어느 블럭이든 완벽하게 부술 수 있습니다. 비용은 약간의 에너지입니다.<BR>당신은 이런 기술의 진보에 질투하였고, 솔직히 기술의 세계로 파고드는 것을 고려하게 되었습니다.<BR>하지만 당신은 마도학자입니다. 절대 기술에 손대지 않을겁니다. 마도학의 힘을 이용하여 원자 분해기와 동일한 도구를 만들어야합니다. (계속)
+tm.text.THAUMICDISASSEMBLER.2=사우믹 분해기는 모든 블럭을 정밀하고 빠르게 분해할 수 있습니다.<BR>Shift+우클릭을 통하여 블럭을 파괴하는 속도를 조절할 수 있습니다.<BR>사우뮴을 사용하였기에 공허합금의 수리 능력은 적용되지 않았습니다. 이 도구를 수리하려면 소량의 Perditio 비스가 필요합니다.
+
+#FOCUSTIME
+
+tm.name.FOCUSTIME=완드 포커스: 시간
+tm.tag.FOCUSTIME=한때, 확신에 차서 슬픔에 잠겼던 것
+tm.text.FOCUSTIME.1=당신은 창조의 기본 원리를 사용하여 세상을 약간 수정하기 위한 포커스를 만들었습니다.<BR>시간의 포커스는 간단합니다. 창조의 샤드를 사용하여 세계의 창조식을 활용하면 시간을 밤에서 낮으로, 또는 그 반대로 바꿀 수 있습니다.<BR>유일한 문제는 30초라는 매우 긴 재사용 대기시간입니다.<BR>이 포커스는 포커스 조작기의 업그레이드를 허용하지 않습니다.
+
+#FOCUSWEATHER
+
+tm.name.FOCUSWEATHER=완드 포커스: 기상
+tm.tag.FOCUSWEATHER=그녀의 입에서 기도가 흘러나왔다
+tm.text.FOCUSWEATHER.1=당신은 창조의 기본 원리를 이용하여 세상의 날씨를 수정하는 포커스를 만들었고, 이는 그다지 어렵지 않았습니다.<BR>기상의 포커스는 폭풍이 분다면 멈추게 할것이고, 그렇지 않다면 폭풍을 부를것입니다.<BR>유일한 문제는 30초라는 매우 긴 재사용 대기시간입니다.<BR>이 포커스는 포커스 조작기의 업그레이드를 허용하지 않습니다.
+
+#VOIDSASH
+
+tm.name.VOIDSASH=공허방랑자의 결계 허리띠
+tm.tag.VOIDSASH=작별을 고하지 않았어
+tm.text.VOIDSASH.1=루닉 결계에 대한 광범위한 연구를 통하여 당신은 기이한 아이디어를 얻었습니다.<BR>공허합금, 그림자합금, 원시 진주와 약간의 그림자에 물든 천, 에센시아의 미세한 혼합물을 사용하여 당신이 생각했던 것보다 더 강력한 루닉 결계 허리띠를 만들었습니다. 공허방랑자의 결계 허리띠는 §6결계량 +20§0을 제공하며, 벨트 슬롯에 장착 가능합니다.<BR>공허방랑자의 신발과 함께 착용한다면 스피드와 점프 높이가 크게 증가합니다. 이 효과는 Shift+우클릭으로 적용 가능합니다.
+
+#MAGICFUNGUAR
+
+tm.name.MAGICFUNGUAR=마법 펑거
+tm.tag.MAGICFUNGUAR=Flambé (플람베)
+tm.text.MAGICFUNGUAR.1=비쉬룸. 모든 마도학 존재의 골칫거리입니다. 마법의 숲을 걸을 때마다 당신은 어떻게든 이 성가신 버섯을 밟게되고 고통받습니다.<BR>어느날, 당신은 이 버섯에 충분히 고통받았습니다. 그리고 하나를 뽑아 집으로 가져갔죠.<BR>당신은 그것을 평범한 재료와 마법의 샤드로 결합하면 §o식용§r이 된다는걸 알았습니다.<BR>심지어 먹으면 연구 포인트도 얻죠.
+
+#CRYSTALDAGGER
+
+tm.name.CRYSTALDAGGER=크리스탈 혈액
+tm.tag.CRYSTALDAGGER=Zwerchhau
+tm.text.CRYSTALDAGGER.1=에센시아 결정화 장치를 사용하여, 적을 죽일 때, 적의 피를 결정화하는 단검을 만들었습니다.<BR>이 단검을 사용하면 적을 죽일 때, 크리스탈 혈액을 얻을 수 있습니다. 피의 욕망 특성을 지닌 무기도 같은 효과를 받습니다.<BR>이 새로운 물질은 크림슨 교단에서 발굴된 유물들과 비슷한 성질을 가지고 있는 것으로 보이기에 특히 흥미롭습니다.
+
+#MACEFOCUS
+
+tm.name.MACEFOCUS=완드 포커스: 마도학자의 메이스
+tm.tag.MACEFOCUS=마도학자에서 전사로
+tm.text.MACEFOCUS.1=포커스의 발견으로, 당신은 대부분의 포커스가 원거리용임을 알게되었습니다. 이것은 때때로 당신에게 문제가 될 수 있습니다.<BR>당신은 날카로운 물체들을 철블럭에 주입하여 메이스의 역할을 하는 포커스를 만들어냈습니다.<BR>이 포커스가 장착되면 사용중인 완드나 스태프의 데미지를 증가시킵니다. 완전한 근접무기로의 전환이죠. 그럼에도 불구하고 이에는 비스가 소모됩니다. 비스가 없을 경우에는 데미지를 입히지 못합니다. 포커스를 업그레이드 할 때마다 데미지가 1 상승합니다.
+
+#CRIMSONBLADE
+
+tm.name.CRIMSONBLADE=진홍빛 칼날
+tm.tag.CRIMSONBLADE=이것은 자비가 될것이야
+tm.text.CRIMSONBLADE.1=크림슨 교단을 광범위하게 연구하고, 크리스탈 혈액의 발견을 통하여 당신은 교단의 지도자가 휘두르는 전설적인 검, 크림슨 칼날을 만들 수 있게 되었습니다.<BR>이 검은 공격하는 모든것의 약점을 타격하며, 크리스탈 단검과 마찬가지로 피를 결정화 하는 능력도 있습니다.
+
+#SHADOWFORTRESSARMOR
+
+tm.name.SHADOWFORTRESSARMOR=그림자 전투 갑옷
+tm.tag.SHADOWFORTRESSARMOR=손에 든 찢어진 유니폼
+tm.text.SHADOWFORTRESSARMOR.1=사우뮴과 공허합금 전투 갑옷을 발견한 이후, 그림자 합금이 전투 갑옷을 만들기에 완벽한 후보가 될 것이라고 생각했습니다.<BR>이는 완벽하게 작동했습니다. 이 갑옷은 자동 수리가 가능하지는 않지만, 공허합금 전투 갑옷보다 훨씬 더 뛰어난 방어력을 지녔습니다. 이 갑옷을 여러개 입는다면 방어력이 더 강해질 것으로 보입니다.<BR>일반 전투 갑옷과 마찬가지로 다양한 개조로 강화가 가능합니다.
+
+#CAP_cloth
+
+tm.name.CAP_cloth=마법이 깃든 천 캡
+tm.tag.CAP_cloth=부드럽고 조용하게
+tm.text.CAP_cloth.1=완드 제작에 대한 몰입적인 연구와 마법이 깃든 천의 발견으로 당신은 완드를 덮는데 일부를 사용하기로 했습니다.<BR>이것이 왜 효과적이었는지 당신은 확신하지 못하지만, 그럼에도 불구하고 효과는 있었습니다. 몇 조각의 천과 약간의 비스를 이용하여 상당히 효과적이고 매우 저렴한 완드 캡이 만들어졌습니다.<BR>이 완드 캡은 5%의 비스 할인률을 제공합니다... 하지만 왜 그런지는 잘 모르겠네요.
+
+#CAP_crimsoncloth
+
+tm.name.CAP_crimsoncloth=진홍빛으로 얼룩진 천 캡
+tm.tag.CAP_crimsoncloth=붉게 물들다
+tm.text.CAP_crimsoncloth.1=마법이 깃든 천 캡과 같은 개념을 사용하여 이 천으로도 완드 캡을 만들었습니다. 하지만, 이것들을 하나로 묶기 위해서는 정화의 소금이 필요합니다.<BR>진홍빛으로 얼룩진 천은 채널링에 더욱 효과적인 것 같습니다. 이 캡은 15%의 비스 할인률을 제공합니다.
+
+#CAP_shadowcloth
+
+tm.name.CAP_shadowcloth=그림자에 물든 천 캡
+tm.tag.CAP_shadowcloth=그림자와 비밀
+tm.text.CAP_shadowcloth.1=당신은 그림자에 물든 천을 사용한다는 것을 제외하고는 마법이 깃든 천 캡과 동일한 방법을 사용하여 새로운 유형의 완드 캡을 만들었습니다. 이 아이디어는 확실히 성공적이었습니다. 비록 정화의 소금을 이용하여 이 모든걸 하나로 묶을 필요는 있었지만 말이죠.<BR>그림자에 물든 천 캡은 마법이 깃든 천 캡과 정확히 같지만, 조금은 더 효율적입니다. 이 완드 캡은 10%의 비스 할인률을 제공합니다.
+
+#FOCUSTAINTEDBLAST
+
+tm.name.FOCUSTAINTEDBLAST=완드 포커스: 테인트 충격파
+tm.tag.FOCUSTAINTEDBLAST=마법의 반대
+tm.text.FOCUSTAINTEDBLAST.1=당신은 진보된 포커스와 플럭스를 연구하면서 공격보다는 방어적인 포커스도 필요하다고 느꼈습니다.<BR>이 포커스는 완드 혹은 스태프로부터 강력한 충격파를 내보내어 모든 적을 저 멀리 날려보낼 것입니다.
+
+#PRIMALBLADE
+
+tm.name.PRIMALBLADE=태초의 끝자락
+tm.tag.PRIMALBLADE=카무이
+tm.text.PRIMALBLADE.1=당신은 많은 위험한 마법을 사용하여 원시 도구 세트의 나머지 절반을 완성했습니다.<BR>태초의 끝자락은 원초적인 측면이 깃든 위험할 정도로 날카로운 칼날입니다. 방어시 15블록 이내의 모든 몬스터를 끌어당켜 피해를 입히는 강력한 에너지 소용돌이를 만들어냅니다. 이 효과는 굶주린 노드와 비슷합니다. 이 검에는 엘드리치 약화의 효과도 있습니다. 이것은 검이 상대의 약점을 타격하며 적을 굶주리게 만듭니다.<BR>이 검을 경계하십시오... 너무 많이 사용한다면 환각이 일어날지도 모릅니다.
+
+#BLOODLUSTUPGRADE
+
+tm.name.BLOODLUSTUPGRADE=5티어 업그레이드: 피의 욕망
+tm.tag.BLOODLUSTUPGRADE=장미와 같은 붉은색이 나의 꿈을 채운다
+tm.text.BLOODLUSTUPGRADE.1=이 업그레이드는 마도학자의 메이스 포커스에만 적용이 가능하며, 완드 혹은 스태프가 피의 욕망 특성을 얻을 수 있게 됩니다.
+
+#VOIDSENTBLOOD
+
+tm.name.VOIDSENTBLOOD=공허 혈액
+tm.tag.VOIDSENTBLOOD=암다포르
+tm.text.VOIDSENTBLOOD.1=당신은 크림슨 교단의 로브를 사랑하기는 하지만, 스스로 수리되지 않기에 결국은 공허합금으로 만든 갑옷에 비하여 열등합니다.<BR>지금까지는 말이죠.<BR>공허 혈액은 간단한 혼합물입니다. 공허한 위상이 주입된 크리스탈 혈액이죠.<BR>이 혼합물을 크림슨 교단의 옷들과 합치게 된다면 갑옷은 저절로 수리가 되는 특성을 가지게 됩니다.
+
+#THAUMIUMKATANA
+
+tm.name.THAUMIUMKATANA=사우뮴 전투 칼날
+tm.tag.THAUMIUMKATANA=아무것도 살아남지 못할 것이다
+tm.text.THAUMIUMKATANA.1=사우뮴 전투 갑옷과 비슷한 디자인으로 완벽한 검을 만들었습니다.<BR>또한, 사우뮴 검의 제작 과정을 개선함으로써, 데미지를 증가시켰습니다. 또한 이 검은 내구도가 줄어들지 않습니다.<BR>우클릭을 길게 눌러 검을 차징할 수 있습니다. 해제하면 충전된 정도에 따라 늘어난 데미지를 입힙니다. 완전히 충전시 2배의 데미지를 입힙니다. 이 검은 사용하지 않을때는 허리춤에 매어져 있습니다.
+
+#VOIDMETALKATANA
+
+tm.name.VOIDMETALKATANA=공허합금 전투 칼날
+tm.tag.VOIDMETALKATANA=제 3의 눈
+tm.text.VOIDMETALKATANA.1=사우뮴 전투 칼날과 동일한 구성 프로세스를 사용하지만, 재료를 공허합금으로 대체하여 훨씬 더 강력한 전투 칼날을 만들었습니다.<BR>공허합금 전투 칼날은 사우뮴에 비해 더 날카롭고 강할뿐 아니라, 공격하는 모든 것을 약화시키는 대단한 약과 효과를 가지고 있습니다.<BR>누군가는 그정도의 공허합금이 신체에 부정적이라고 말하지만 당신은 신경쓰지 않습니다.<BR>사우뮴 전투 칼날과 같이 다양한 비문으로 강화가 가능합니다.
+
+#SHADOWMETALKATANA
+
+tm.name.SHADOWMETALKATANA=그림자합금 전투 칼날
+tm.tag.SHADOWMETALKATANA=난초설월화(乱れ雪月花)
+tm.text.SHADOWMETALKATANA.1=당신은 그림자합금 전투 갑옷을 만든 후에, 그림자합금으로 전투 칼날을 만들 수 있을것이라 확신했습니다.<BR>결과는 놀랍습니다. 지금까지의 전투 칼날과 같은 공정을 따라 가장 강력하고 날카로운 검을 만들었습니다.<BR>이 검은 당신이 공격한 모든 대상의 시야를 흐리고, 느려지게 만들겁니다.<BR>사우뮴 전투 칼날과 같이 다양한 비문으로 강화가 가능합니다.
+
+#INSCRIPTIONFIRE
+
+tm.name.INSCRIPTIONFIRE=화산 비문
+tm.tag.INSCRIPTIONFIRE=사우뮴 전투 칼날 업그레이드
+tm.text.INSCRIPTIONFIRE.1=전투 칼날에 룬을 새겨넣어 업그레이드했습니다.<BR>이 비문은 무기의 데미지를 화염피해로 변환시켜 방어력을 무시합니다. 또한 타격시 불을 붙입니다.<BR>또한 완전히 차징된 공격시, 폭발성 화염구가 검에서 방출됩니다. 이 효과 없이 차징을 하기 위해서는 Shift를 누르고 있어야합니다.
+
+#INSCRIPTIONTAINT
+
+tm.name.INSCRIPTIONTAINT=테인트 비문
+tm.tag.INSCRIPTIONTAINT=사우뮴 전투 칼날 업그레이드
+tm.text.INSCRIPTIONTAINT.1=전투 칼날에 룬을 새겨넣어 업그레이드했습니다.<BR>이 비문은 무기의 데미지를 마법피해로 변환시켜 방어력을 무시합니다. 또한 타격시 테인트 독에 중독시킵니다.<BR>또한 완전히 차징된 공격시, 테인트 구름이 검에서 방출됩니다. 이 효과 없이 차징을 하기 위해서는 Shift를 누르고 있어야합니다.
+
+#INSCRIPTIONUNDEAD
+
+tm.name.INSCRIPTIONUNDEAD=언데드 비문
+tm.tag.INSCRIPTIONUNDEAD=사우뮴 전투 칼날 업그레이드
+tm.text.INSCRIPTIONUNDEAD.1=전투 칼날에 룬을 새겨넣어 업그레이드했습니다.<BR>이 비문은 무기의 데미지를 위더피해로 변환시켜 방어력을 무시합니다. 또한 타격시 위더에 중독시킵니다.<BR>또한 완전히 차징된 공격시, 입힌 피해의 25%만큼 당신을 회복시킵니다.
+
+#VOIDGOGGLES
+
+tm.name.VOIDGOGGLES=그림자합금 발견의 고글
+tm.tag.VOIDGOGGLES=미친자는 아무것도 모르지
+tm.text.VOIDGOGGLES.1=공허합금을 뒤틀린 발견의 고글에 주입함으로써, 스스로 수리할 수 있는 고글을 만들었으며, 이는 매우 높은 비스 할인률을 제공합니다.<BR>안타깝게도, 본래의 뒤틀린 발견의 고글보다는 열등한 방어력을 제공합니다.
+
+#FOCUSSHARD
+
+tm.name.FOCUSSHARD=완드 포커스: 비스 샤드
+tm.tag.FOCUSSHARD=블립 블롭
+tm.text.FOCUSSHARD.1=당신은 다양한 유형의 샤드를 연구하면서 놀라운 아이디어가 생겼습니다. 전투에 사용하기 위하여 비스 샤드를 움직이게 만든다면 어떨까요?<BR>이 포커스는 적을 바라볼때만 사용가능합니다. 이 샤드들은 공중에 떠다니며 목표물을 추격하고, 접촉시 폭발합니다.<BR>이 샤드는 단단한 블럭에 튕겨져 나올것 같습니다.
+
+#FOCUSLUMOS
+
+tm.name.FOCUSLUMOS=완드 포커스: 루모스
+tm.tag.FOCUSLUMOS=레비오우사지, 레비오 사아가 아니야!
+tm.text.FOCUSLUMOS.1=당신은 포커스와 위상을 연구한 후 놀라운 아이디어를 얻었습니다. 완드의 끝에서 빛을 만들어낼 수 있다면 어떨까요? 이 포커스가 바로 그 역할을 해냅니다.<BR>완드 혹은 스태프를 블럭에 조준하고, 빛이 나타나는 것을 바라보십시오! 이 광원은 쉽게 파괴되기에 손으로 제거 가능합니다.
+
+#FLYTECHARM
+tm.name.FLYTECHARM=비행의 부적
+tm.tag.FLYTECHARM=금빛의 거미
+tm.text.FLYTECHARM.1=바람의 화살에 창조의 샤드와 여러가지 마법의 물건을 주입하여 사용자가 날게되는 강력한 부적을 제작하였습니다.<BR>부적을 소지하는 동안, 당신은 약간의 Aer 비스를 소모하여 날 수 있습니다. 이는 틱당 약 0.1을 소모합니다.<BR>또한 비행중에 달리게 된다면 Ignis 비스를 소모하여 2초마다 가속할 수 있습니다. 또한 떨어지는 동안 웅크리게 되면, 부드럽게 미끄러지며 떨어집니다.
